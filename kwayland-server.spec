@@ -22,6 +22,8 @@ BuildRequires:	cmake(Wayland)
 BuildRequires:	cmake(WaylandScanner)
 BuildRequires:	cmake(KF5Wayland)
 BuildRequires:	pkgconfig(wayland-protocols)
+BuildRequires:	pkgconfig(wayland-client)
+BuildRequires:	pkgconfig(wayland-server)
 BuildRequires:	qt5-qtwayland
 BuildRequires:	kernel-release-headers
 BuildRequires:	wayland-tools
