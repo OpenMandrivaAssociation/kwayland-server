@@ -23,6 +23,7 @@ BuildRequires:	cmake(KF5Wayland)
 BuildRequires:	pkgconfig(wayland-protocols)
 BuildRequires:	qt5-qtwayland
 BuildRequires:	kernel-release-headers
+BuildRequires:	wayland-tools
 Requires:	%{libname} = %{EVRD}
 
 %description
