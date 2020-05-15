@@ -24,6 +24,7 @@ BuildRequires:	pkgconfig(wayland-protocols)
 BuildRequires:	qt5-qtwayland
 BuildRequires:	kernel-release-headers
 BuildRequires:	wayland-tools
+BuildRequires:	doxygen qt5-assistant
 Requires:	%{libname} = %{EVRD}
 
 %description
