@@ -20,6 +20,7 @@ BuildRequires:	cmake(Qt5WaylandClient)
 BuildRequires:	cmake(Wayland)
 BuildRequires:	cmake(WaylandScanner)
 BuildRequires:	pkgconfig(wayland-protocols)
+BuildRequires:	qt5-qtwayland
 BuildRequires:	kernel-release-headers
 Requires:	%{libname} = %{EVRD}
 
