@@ -7,7 +7,7 @@
 Summary: 	KDE Library for integration with the Wayland display server
 Name: 		kwayland-server
 Version:	5.24.5
-Release: 	2
+Release: 	3
 Source0: 	http://download.kde.org/%{stable}/plasma/%{plasmaver}/%{name}-%{version}.tar.xz
 Url: 		http://kde.org/
 License: 	GPL
