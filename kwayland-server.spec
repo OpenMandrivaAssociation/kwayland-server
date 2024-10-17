@@ -9,7 +9,7 @@ Name: 		kwayland-server
 Version:	5.24.7
 Release: 	1
 Source0: 	http://download.kde.org/%{stable}/plasma/%{plasmaver}/%{name}-%{version}.tar.xz
-Url: 		http://kde.org/
+Url: 		https://kde.org/
 License: 	GPL
 Group: 		System/Libraries
 BuildRequires:	cmake(ECM)
